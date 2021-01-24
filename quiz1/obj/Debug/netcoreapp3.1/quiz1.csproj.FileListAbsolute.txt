@@ -1,0 +1,30 @@
+C:\Users\Admin\source\repos\quiz1\quiz1\bin\Debug\netcoreapp3.1\quiz1.exe
+C:\Users\Admin\source\repos\quiz1\quiz1\bin\Debug\netcoreapp3.1\quiz1.deps.json
+C:\Users\Admin\source\repos\quiz1\quiz1\bin\Debug\netcoreapp3.1\quiz1.runtimeconfig.json
+C:\Users\Admin\source\repos\quiz1\quiz1\bin\Debug\netcoreapp3.1\quiz1.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\quiz1\quiz1\bin\Debug\netcoreapp3.1\quiz1.dll
+C:\Users\Admin\source\repos\quiz1\quiz1\bin\Debug\netcoreapp3.1\quiz1.pdb
+C:\Users\Admin\source\repos\quiz1\quiz1\obj\Debug\netcoreapp3.1\quiz1.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\quiz1\quiz1\obj\Debug\netcoreapp3.1\quiz1.Form1.resources
+C:\Users\Admin\source\repos\quiz1\quiz1\obj\Debug\netcoreapp3.1\quiz1.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\quiz1\quiz1\obj\Debug\netcoreapp3.1\quiz1.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\quiz1\quiz1\obj\Debug\netcoreapp3.1\quiz1.AssemblyInfo.cs
+C:\Users\Admin\source\repos\quiz1\quiz1\obj\Debug\netcoreapp3.1\quiz1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\quiz1\quiz1\obj\Debug\netcoreapp3.1\quiz1.dll
+C:\Users\Admin\source\repos\quiz1\quiz1\obj\Debug\netcoreapp3.1\quiz1.pdb
+C:\Users\Admin\source\repos\quiz1\quiz1\obj\Debug\netcoreapp3.1\quiz1.genruntimeconfig.cache
+C:\Users\AndreasMyklebustKris\OneDrive - Rogaland Fylkeskommune EES\skole oppgaver\IT\quiz1\quiz1\bin\Debug\netcoreapp3.1\quiz1.exe
+C:\Users\AndreasMyklebustKris\OneDrive - Rogaland Fylkeskommune EES\skole oppgaver\IT\quiz1\quiz1\bin\Debug\netcoreapp3.1\quiz1.deps.json
+C:\Users\AndreasMyklebustKris\OneDrive - Rogaland Fylkeskommune EES\skole oppgaver\IT\quiz1\quiz1\bin\Debug\netcoreapp3.1\quiz1.runtimeconfig.json
+C:\Users\AndreasMyklebustKris\OneDrive - Rogaland Fylkeskommune EES\skole oppgaver\IT\quiz1\quiz1\bin\Debug\netcoreapp3.1\quiz1.runtimeconfig.dev.json
+C:\Users\AndreasMyklebustKris\OneDrive - Rogaland Fylkeskommune EES\skole oppgaver\IT\quiz1\quiz1\bin\Debug\netcoreapp3.1\quiz1.dll
+C:\Users\AndreasMyklebustKris\OneDrive - Rogaland Fylkeskommune EES\skole oppgaver\IT\quiz1\quiz1\bin\Debug\netcoreapp3.1\quiz1.pdb
+C:\Users\AndreasMyklebustKris\OneDrive - Rogaland Fylkeskommune EES\skole oppgaver\IT\quiz1\quiz1\obj\Debug\netcoreapp3.1\quiz1.csprojAssemblyReference.cache
+C:\Users\AndreasMyklebustKris\OneDrive - Rogaland Fylkeskommune EES\skole oppgaver\IT\quiz1\quiz1\obj\Debug\netcoreapp3.1\quiz1.Form1.resources
+C:\Users\AndreasMyklebustKris\OneDrive - Rogaland Fylkeskommune EES\skole oppgaver\IT\quiz1\quiz1\obj\Debug\netcoreapp3.1\quiz1.csproj.GenerateResource.cache
+C:\Users\AndreasMyklebustKris\OneDrive - Rogaland Fylkeskommune EES\skole oppgaver\IT\quiz1\quiz1\obj\Debug\netcoreapp3.1\quiz1.AssemblyInfoInputs.cache
+C:\Users\AndreasMyklebustKris\OneDrive - Rogaland Fylkeskommune EES\skole oppgaver\IT\quiz1\quiz1\obj\Debug\netcoreapp3.1\quiz1.AssemblyInfo.cs
+C:\Users\AndreasMyklebustKris\OneDrive - Rogaland Fylkeskommune EES\skole oppgaver\IT\quiz1\quiz1\obj\Debug\netcoreapp3.1\quiz1.csproj.CoreCompileInputs.cache
+C:\Users\AndreasMyklebustKris\OneDrive - Rogaland Fylkeskommune EES\skole oppgaver\IT\quiz1\quiz1\obj\Debug\netcoreapp3.1\quiz1.dll
+C:\Users\AndreasMyklebustKris\OneDrive - Rogaland Fylkeskommune EES\skole oppgaver\IT\quiz1\quiz1\obj\Debug\netcoreapp3.1\quiz1.pdb
+C:\Users\AndreasMyklebustKris\OneDrive - Rogaland Fylkeskommune EES\skole oppgaver\IT\quiz1\quiz1\obj\Debug\netcoreapp3.1\quiz1.genruntimeconfig.cache
